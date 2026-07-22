@@ -25,6 +25,8 @@ An end-to-end real-time data engineering pipeline built using **Apache Kafka**, 
 1. Launch this repository directly in **GitHub Codespaces**.
 2. Start Kafka:
    ```bash
-   docker compose up -d# realtime-crypto-pipeline
+   docker compose up -d
+   ```
 
-   ---
+   ## Realtime-Crypto-Pipeline
+
